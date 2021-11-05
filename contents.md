@@ -1,1 +1,14 @@
 ## Table of Contents
+- 01: The Basics
+- 02: Contextualizing the Game
+- 03: Playing the Game
+- 04: Refereeing the Game
+- 05: Institutions of Higher Learning – Characteristics 
+- 06: Institutions of Higher Learning – Resources
+- 07: Money & Financials
+- 08: Deseret’s Institutions of Higher Learning
+- 09: Encounters & Locales
+- 10: Maps of Deseret
+- 11: Player Reference Sheet
+- 12: College Information Cards
+- 13: Referee Screen 
