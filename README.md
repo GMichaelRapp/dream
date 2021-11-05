@@ -1,2 +1,2 @@
-# dream
-The home for Pursuing the Dream, a strategy roleplaying game. 
+# Read Me
+This is the home for _Pursuing_ the _Dream_, a strategy roleplaying game. 
