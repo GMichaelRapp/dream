@@ -1,5 +1,5 @@
 ## Welcome to _Pursuing_ the _Dream_
-**_Pursuing_ the _Dream_** is a role-playing strategy game about higher education and is set in the fictional state of Deseret.
+**_Pursuing_ the _Dream_** is a strategy roleplaying game about American higher education and is set in the fictional state of Deseret.
 
 Every year, millions of college-age Americans pursue the dream of higher education, which comes with a promise of finding living wages, stability, and upward mobility. While many problematic narratives concerning higher education are fraught with their usual clichés of incompetent administrators and administrative bloat, absentee staff, and aloof instructors, adjuncts, and professors, these same narratives often miss the higher callings and idealism that are associated with higher education in America. 
 
