@@ -1,3 +1,5 @@
+|[Table of Contents]({% link contents.md %})|[Game License]({% link license.md %})|[Free Radicals Game Studio]({% link americanethos.xyz %})|
+
 ## Welcome to _Pursuing_ the _Dream_
 **_Pursuing_ the _Dream_** is a strategy roleplaying game about American higher education and is set in the fictional state of Deseret.
 
