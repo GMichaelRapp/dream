@@ -9,6 +9,6 @@ As the student loan and enrollment crises loom and existential threats crop up, 
 
 In **_Pursuing_ the _Dream_**, players must find a way forward for their respective institutions of higher learning. They must work together. They must be innovative. They must think outside of the box, as cliché as it sounds. Players will need to find a future place for their institutions of higher learning, all the while ensuring students, for decades to come, are able to pursue their dreams of living wage jobs, stability, and upward mobility. In essence, colleges and universities are attempting to fulfill a promise made long ago, concerning life, liberty, and the pursuit of happiness. 
 
-Higher callings and idealism are often ignored when organizations become part of industries or sectors. They lose their **_why_**. They simply produce, without a care, and the products, the consumers, and the communities they serve suffer as a result. Here you are all coming together for the future of higher education, and, more importantly, to discover the why of higher education. 
+Higher callings and idealism are often ignored when organizations become part of industries or sectors. They lose their **_why_**. They simply produce, without a care, and the products, the consumers, and the communities they serve suffer as a result. Here you are all coming together for the future of higher education, and, more importantly, to discover the **_why_** of higher education. 
 
 **You are all here to make the dream come true.**
