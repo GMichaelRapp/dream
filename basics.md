@@ -17,3 +17,30 @@ To win a game of **Pursuing _the_ Dream**, an IHL must obtain **_at least_** one
 
 ## Secondary Role of _ALL_ Players
 For those who are playing as IHLs, and even those acting as referees, there is a secondary role each player **_must_** fulfill: Make this an enjoyable (and collective) experience. In other words, **Pursuing _the_ Dream** is best experienced and enjoyed as a collaborative storytelling and friendly competition-based endeavor, with everyone, not just the referees, sharing ideas and looking into opportunities to make the game exciting, entertaining, and a collective endeavor worth pursuing altogether. 
+
+## Balancing _Realism_ & _Entertainment_
+Self-proclaimed realists will decry the lack of realism in this game (and others like it). That is fine. Realism is in the eye of the beholder, meaning realism comes in different shades and is (often) subjective, particularly in a gameplay context. What is realistic to one is unrealistic to another entirely. While realism is considered here, it is sacrificed in the name of **_good entertainment_** and **_exciting_** gameplay. It is best to remember that ultra-realism is incredibly difficult to nail down in gaming, and to simply obsess over all the things that should be realistic would present some serious design challenges, preventing this game from being in your hands, here and now. Overall, remember that realism, or the level or shade of realism desired, should be a group decision, not an individual one. In other words, the group playing should decide how far it wants to take the realism in **Pursuing _the_ Dream**.
+
+## Players & Deseret's Institutions of Higher Learning (IHLs)
+This game, Pursuing the Dream, is best played with large groups of players, with a minimum of eleven or twelve players, and in a format most conducive for large-group gameplay. A game of Pursuing the Dream might be played via e-mail, in a large conference room, or across campus, over the span of hours or days, depending on the time constraints that might limit gameplay for your gaming group.
+
+At the start of the game, players are group into ten (10) IHLs. These IHLs are as follows: **Archuleta Community College (ACC)**, **Central Deseret Junior College (CDJC)**, **Eastern Deseret State College (EDSC)**, **Eastern Highlands College (EHC)**, **High Country Community College (HCCC)**, **Northern Deseret State College (NDSC)**, **San Juan Regional College (SJRC)**, **Southwestern Deseret Community College (SDCC)**, **Tablelands Technical-Vocational College (TTVC)**, AND **Zinc Valley Community College (ZVCC)**.
+
+Players who are not assigned to an IHL are to be the game’s referees. More on this later. 
+
+>>**Please note:** All IHLs found in **Pursuing _the_ Dream** are spread across the State of Deseret. These IHLs are usually smaller, independent colleges and universities that exist on the peripheries or in the shadows of the larger, wealthier, and political heavyweight colleges and universities found along the Pacific coastal regions and in the highly developed urban areas. 
+
+Each IHL has a particular color for map marking during gameplay. These colors can be found in the table listed below. If you don’t have access to these colors, please consider modifying them to suit your needs.
+
+| IHL         | Map Marker Color |
+| ----------- | ----------- |
+| ACC      | Red       |
+| CDJC      | Purple       |
+| EDSC     | Orange       |
+| EHC     | White       |
+| HCCC      | Yellow       |
+| NDSC     | Green       |
+| SJRC      | Lime Green       |
+| SDCC     | Black       |
+| TTVC     | Blue       |
+| ZVCC      | Brick       |
