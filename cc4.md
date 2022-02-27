@@ -1,3 +1,6 @@
+|[Table of Contents]({% link contents.md %})| [Home]({% link index.md %}) |
+---
+
 ## Game License Information
 ![License](/assets/img/by-nc-sa.png)
 
