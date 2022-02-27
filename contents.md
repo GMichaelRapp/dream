@@ -4,7 +4,7 @@
 - [02: Contextualizing the Game]({% link context.md %})
 - [03: Playing the Game]({% link play.md %})
 - [04: Refereeing the Game]({% link referee.md %})
-- [**Maps of Deseret**]({% link maps.md %})
+- [**Map of Deseret**]({% link maps.md %})
 - **Player Reference Sheet**
 - **College Information Cards**
 - **Referee Cheat Sheet**
