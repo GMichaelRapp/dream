@@ -8,3 +8,5 @@
 - **Player Reference Sheet**
 - **College Information Cards**
 - **Referee Cheat Sheet**
+
+{% include footer.html %}
