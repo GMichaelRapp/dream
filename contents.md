@@ -9,4 +9,6 @@
 - **College Information Cards**
 - **Referee Cheat Sheet**
 
+---
+
 {% include footer.html %}
