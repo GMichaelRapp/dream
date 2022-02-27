@@ -1,18 +1,21 @@
 |[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |[Home]({% link index.md %})|
 
-## Table of Contents
-1. [What Is This?](####WhatIsThis?)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+# Table of Contents
+1. [What Is This?](#what-id)
+2. [What Is a Strategy Roleplaying Game](#rpg-id)
+3. [Collaboration & Competition](#collab-id)
+4. [Object of the Game](#object-id)
+5. 
 
 
 ## 01: The Fundamentals
 
-#### What Is This?
+#### What Is This? {#what-id}
 This is a strategy roleplaying game, a blending of strategy- and competition-based games, such as *Risk* or even *Diplomacy*, with tabletop roleplaying games, such as *Dungeons & Dragons*. The idea here is that players take on roles of institutions of higher learning (IHLs) based in the fictional state of Deseret. As players take on these roles, they are strategizing how they will win the one hundred (100) coveted ***victory points*** and beat their competitors—that is, the other IHLs found within the game and taken on by fellow players. 
 
-#### What *Is* a Strategy Roleplaying Game?
+#### What *Is* a Strategy Roleplaying Game? {#rpg-id}
 If strategy roleplaying games are new to you, they can feel daunting when attempting to tackle them as a concept.  Don't worry, though. Strategy roleplaying games are about friendly competition and constructive collaboration between players, even for the game's referee. While competition does exist, it is best to remember the word ***collaboration*** here. Collaboration is a form of entertainment and a way to produce exciting outcomes and not boring, uneventful gaming experiences. Quite the opposite. Collaboration between institutions of higher learning (IHLs) (and even between individual players) is the best way to develop each IHL, explore the future of higher education, and craft wonderful, enriching experiences that will stick with each player. 
 
 Two important aspects of strategy roleplaying games, aside from competition and collaboration, are ***strategy*** and ***roleplaying***.      
@@ -21,12 +24,12 @@ In terms of strategy, players acting as (say) Archuleta Community College (ACC) 
 
 In essence, roleplaying games require most individual players to take on an (often) fictional persona, which has been tailored for the game. In **Pursuing *the* Dream**, players, as a group, take on the persona of an established institution of higher learning (IHL) within the fictional state of Deseret. For example, ACC, a small, rural community college nestled in the San Juan Mountains, might be a group’s persona. As ACC, we’ll use its abbreviated name, players will interact with their fellow competitors and their in-game personas, along with the referee(s) and their non-player characters (NPCs) and other encounters. ACC might also interact with the referee in how a situation might be roleplayed, how something might progress forward, and how challenging a given task might be. In all, players playing as ACC are indistinguishable from ACC as an institution. Everything ACC wants, the players want. Everything ACC does, the players have a hand in from the get-go. When the referee interacts with ACC, it is on the basis that the players playing ACC are acting in the best interests of their institution of higher learning, Archuleta Community College.
 
-#### Collaboration & Competition
+#### Collaboration & Competition {#collab-id}
 In essence, roleplaying games require most individual players to take on an (often) fictional persona, which has been tailored for the game. In **Pursuing *the* Dream**, players, as a group, take on the persona of an established institution of higher learning (IHL) within the fictional state of Deseret. For example, ACC, a small, rural community college nestled in the San Juan Mountains, might be a group’s persona. As ACC, we’ll use its abbreviated name, players will interact with their fellow competitors and their in-game personas, along with the referee(s) and their non-player characters (NPCs) and other encounters. ACC might also interact with the referee in how a situation might be roleplayed, how something might progress forward, and how challenging a given task might be. In all, players playing as ACC are indistinguishable from ACC as an institution. Everything ACC wants, the players want. Everything ACC does, the players have a hand in from the get-go. When the referee interacts with ACC, it is on the basis that the players playing ACC are acting in the best interests of their institution of higher learning, Archuleta Community College.
 
 > **Remember:** We are wanting to create meaningful experiences here. Meaningful experiences are how we get players to connect with the **_why_** of higher education.
 
-#### Object of the Game
+#### Object of the Game {#object-id}
 To win a game of **Pursuing *the* Dream**, an IHL must obtain **_at least_** one hundred (100) victory points. Once this victory condition has been met, the referee will announce that the victory condition has been satisfied to all teams involved. All IHLs begin their journey toward pursuing **_the_** dream with zero (0) victory points. Victory points are awarded by the game’s referee(s), who assign victory points based on how well a given IHL accomplishes certain objectives, tackles challenges, expands its influence, and roleplays a given situation in-game.
 
 #### Secondary Role of *ALL* Players
