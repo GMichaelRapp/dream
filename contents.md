@@ -1,6 +1,6 @@
 ## Table of Contents
 - [**Pursuing _the_ Dream**]({% link index.md %})
-- 01: The Fundamentals
+- [01: The Fundamentals]({% link basics.md %})
 - 02: Contextualizing the Game
 - 03: Playing the Game
 - 04: Refereeing the Game
