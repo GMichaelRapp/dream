@@ -1,4 +1,4 @@
-|[Table of Contents]({% link contents.md %})| [Home]({% link index.md %}) |
+|[Table of Contents]({% link contents.md %})| [Home]({% link index.md %})|
 ---
 
 ## Game License Information
