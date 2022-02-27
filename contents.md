@@ -7,4 +7,4 @@
 - **Maps of Deseret**
 - **Player Reference Sheet**
 - **College Information Cards**
-- **Referee Cheat Sheet **
+- **Referee Cheat Sheet**
