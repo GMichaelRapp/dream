@@ -1,14 +1,10 @@
 ## Table of Contents
-- 01: The Basics
+- 00: **Pursuing _the_ Dream**
+- 01: The Fundamentals
 - 02: Contextualizing the Game
 - 03: Playing the Game
 - 04: Refereeing the Game
-- 05: Institutions of Higher Learning – Characteristics 
-- 06: Institutions of Higher Learning – Resources
-- 07: Money & Financials
-- 08: Deseret’s Institutions of Higher Learning
-- 09: Encounters & Locales
-- 10: Maps of Deseret
-- 11: Player Reference Sheet
-- 12: College Information Cards
-- 13: Referee Screen 
+- **Maps of Deseret**
+- **Player Reference Sheet**
+- **College Information Cards**
+- **Referee Cheat Sheet **
