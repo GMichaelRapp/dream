@@ -1,3 +1,5 @@
+|[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |[Home]({% link index.md %})|
+
 ## 01: The Fundamentals
 
 #### What Is This?
@@ -123,7 +125,7 @@ To make the best of this manual, referees will want to familiarize themselves wi
 
 **Resources:** These are those things that provide **_special_** support for an IHL’s everyday operations. Resources include **material goods**, **monetary supports**, **human capital**, and **environmental conditions**. Environmental conditions cannot be changed, as this would require god-like abilities to reshape the environment, the geography, and even the very planet itself.
 
-**Target Number:** This is a value calculated by the game’s referee, which begins with a given attribute (see [**03: Playing the Game**]({% link playing.md %}) for more details) and goes from there.
+**Target Number:** This is a value calculated by the game’s referee, which begins with a given attribute (see [**03: Playing the Game**]({% link play.md %}) for more details) and goes from there.
 
 **Victory Points (VP):** These are fungible assets that players earn from completing tasks or challenges. Victory points are awarded by the game’s referee. To that end, victory points can be sacrificed to buy new characteristics, new resources, and/or higher attribute scores.
 
