@@ -15,7 +15,7 @@ Higher callings and idealism are often ignored when organizations become part of
 
 **You *all* are here to make the dream come true.**
 
-|[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |Free Radicals Game Studio|
+|[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %})|[Free Radicals Game Studio](https://americanethos.xyz)|
 
 ---
 {% include footer.html %}
