@@ -7,7 +7,7 @@
 
 ### Table of Contents
 1. [What Is This?](#what-id)
-2. [What Is a Strategy Roleplaying Game](#rpg-id)
+2. [What Is a Strategy Roleplaying Game?](#rpg-id)
 3. [Collaboration & Competition](#collab-id)
 4. [Object of the Game](#object-id)
 5. [Secondary Role of All Players](#second-id)
