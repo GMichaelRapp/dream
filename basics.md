@@ -154,8 +154,6 @@ To make the best of this manual, referees will want to familiarize themselves wi
 #### Remember This, Folks {#remember-id}
 When dealing with any game product, the referees and their fellow players are the final arbiters as to what should happen in-game. This is merely a sourcebook, a reference point, and not some sacred text to be held up high and venerated for what is written on its pages. Feel free to tweak, bend, break, and rewrite what you don’t like, what doesn’t work, and/or what doesn’t flow with your current understanding of the game itself.
 
----
-
 |[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |[Home]({% link index.md %})|
 
 ---
