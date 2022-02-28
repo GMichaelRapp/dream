@@ -14,7 +14,7 @@ Below you will find important background information on the state of Deseret, th
 #### The Nine (9) Counites of Deseret
 Nine (9) counties comprise the State of Deseret. These counties are **Moab (South)**, **Yokna (West)**, **San Juan (Southeast)**, **Mesa (Central-East)**, **Lincoln (Northeast)**, **Franklin (North)**, **Malheur (Northwest)**, **Imperial (Southwest)**, and **Unitah (Central-West)**.
 
-![Large Map of Deseret (Labelled)](/assets/img/Game Map.png)
+![Map](/assets/img/Game Map.png)
 
 #### Population
 Deseret is home to **ten million people**, with large populations concentrated in highly developed urban corridors and along the Pacific coastal regions of the state.
