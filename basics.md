@@ -117,7 +117,7 @@ Like many strategy and roleplaying games, **Pursuing *the* Dream** requires addi
 
 **13)** A time-keeping device for time management during gameplay
 
-**14)** Event tokens (see **03: Playing the Game** for details)
+**14)** Event tokens (see [**03: Playing the Game**]({% link play.md %}) for details)
 
 #### The Golden Rule {#golden-id}
 In games like **Pursuing *the* Dream**, there exists a Golden Rule. This rule is simple, but it is often ignored by players who wish to be overly technical or wish to be rules lawyers or even realism fetishists. **This is a game**. As such, one should have fun—or at least try having fun. Players should remember that the final arbiter of rulings, realism, and boundaries is the game’s referee, who is interested in making sure the game keeps from stalling or falling victim to rules-lawyering, realism fetishes, and even chaos that threatens to derail everything. The **Golden Rule** is simple enough:
