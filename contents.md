@@ -5,7 +5,7 @@
 - [03: Playing the Game]({% link play.md %})
 - [04: Refereeing the Game]({% link referee.md %})
 - [**Map of Deseret**]({% link maps.md %})
-- **Player Reference Sheet**
+- [**Player Reference Sheet**]({% link /assets/handouts/Player Reference Sheet.pdf %})
 - **College Information Cards**
 - **Referee Cheat Sheet**
 
