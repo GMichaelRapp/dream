@@ -6,6 +6,7 @@
 - [04: Refereeing the Game]({% link referee.md %})
 - [**Map of Deseret**]({% link maps.md %})
 - [**Player Reference Sheet**]({% link /assets/handouts/Player Reference Sheet.pdf %})
+- [**Referee Cheat Sheet**]({% link /assets/handouts/Referee Sheet.pdf %})
 - **College Information Cards**
   - [ACC]({% link /assets/handouts/ACC.pdf %})
   - [CDJC]({% link /assets/handouts/CDJC.pdf %})
@@ -17,7 +18,7 @@
   - [SJRC]({% link /assets/handouts/SJRC.pdf %})
   - [TTVC]({% link /assets/handouts/TTVC.pdf %})
   - [ZVCC]({% link /assets/handouts/ZVCC.pdf %})  
-- [**Referee Cheat Sheet**]({% link /assets/handouts/Referee Sheet.pdf %})
+
 
 ---
 
