@@ -7,7 +7,17 @@
 - [**Map of Deseret**]({% link maps.md %})
 - [**Player Reference Sheet**]({% link /assets/handouts/Player Reference Sheet.pdf %})
 - **College Information Cards**
-- **Referee Cheat Sheet**
+  - ACC
+  - CDJC
+  - EDSC
+  - EHC
+  - HCCC
+  - NDSC
+  - SDCC
+  - SJRC
+  - TTVC
+  - ZVCC  
+- [**Referee Cheat Sheet**]({% link /assets/handouts/Referee Sheet.pdf %})
 
 ---
 
