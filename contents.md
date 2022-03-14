@@ -7,16 +7,16 @@
 - [**Map of Deseret**]({% link maps.md %})
 - [**Player Reference Sheet**]({% link /assets/handouts/Player Reference Sheet.pdf %})
 - **College Information Cards**
-  - ACC
-  - CDJC
-  - EDSC
-  - EHC
-  - HCCC
-  - NDSC
-  - SDCC
-  - SJRC
-  - TTVC
-  - ZVCC  
+  - [ACC]({% link /assets/handouts/ACC.pdf %})
+  - [CDJC]({% link /assets/handouts/CDJC.pdf %})
+  - [EDSC]({% link /assets/handouts/EDC.pdf %})
+  - [EHC]({% link /assets/handouts/EHC.pdf %})
+  - [HCCC]({% link /assets/handouts/HCCC.pdf %})
+  - [NDSC]({% link /assets/handouts/NDSC.pdf %})
+  - [SDCC]({% link /assets/handouts/SDCC.pdf %})
+  - [SJRC]({% link /assets/handouts/SJRC.pdf %})
+  - [TTVC]({% link /assets/handouts/TTVC.pdf %})
+  - [ZVCC]({% link /assets/handouts/ZVCC.pdf %})  
 - [**Referee Cheat Sheet**]({% link /assets/handouts/Referee Sheet.pdf %})
 
 ---
