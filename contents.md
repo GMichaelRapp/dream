@@ -7,6 +7,7 @@
 - [**Map of Deseret**]({% link maps.md %})
 - [**Player Reference Sheet**]({% link /assets/handouts/Player Reference Sheet.pdf %})
 - [**Referee Cheat Sheet**]({% link /assets/handouts/Referee Sheet.pdf %})
+- [**Referee Manual (PDF)**]({% link /assets/manual/Pursuing the Dream Finalized Manual v5.pdf %})
 - **College Information Cards**
   - [ACC]({% link /assets/handouts/ACC.pdf %})
   - [CDJC]({% link /assets/handouts/CDJC.pdf %})
