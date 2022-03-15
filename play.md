@@ -42,3 +42,26 @@ An IHL’s **_resources_** and **_characteristics_** can add or subtract additio
 Below referees will find the difficulty modifiers and their associated descriptors. Task examples have been offered as well.
 
 >  **Please Note:** The task examples are not exhaustive, but they are representative.
+
+| Difficulty Descriptor  | Difficulty Modifier |Task Example |
+|:-------------:|:-------------:|:-------------:|
+| Nearly Impossible | -60 (or higher) |Convince the state’s legislature to improve funding models so they are equitable, especially for rural and underfunded IHLs within the state.|
+| Legendary | -50 |Restore campus network after major cyberattack via e-mail-based ransomware.|
+| Epic | -40 |Complete last-minute, highly competitive grant application process and get the grant for the school!|
+| Fantastic | -30 |Repair IHL’s roof after torrential floods and apocalyptic hail damage and remain open for students and members of the community.|
+| Superb | -20 |Switch _all_ courses to some form of online educational mode due to unforeseen pandemic.|
+| Great | -10 |Coordinate with other institutions statewide to adopt new curriculum changes mandated by the state’s DHL.|
+| Fair | -5 |Find adequate training for faculty and staff concerning diversity, equity, and inclusion.|
+| Mundane | +/- 0 |Maintain adequate paperwork for reporting purposes.|
+| Simple | +5/+10/+15|Provide a large number of students with an adequate (and exciting) campus tour.|
+| Effortless | +30 (or higher) No Dice Rolls Needed. Roleplay Required. Automatic Success If Roleplay Is Convincing.|Clean up trash after rowdy community members who used campus for a weekend convention.|
+
+#### Additional Modifiers
+There are additional modifiers that can be added or subtracted from the target number calculated by the referee. These modifiers can be as low as ***minus thirty*** (**-30**) or as high as ***plus thirty*** (**+30**). These are similar in vain as a foot wedge in golf. Play in by ear and go from there.
+
+#### Doubles, Critical Successes, & Critical Failures
+Below players will find a table cataloging all possible dice roll combinations for a d100, including **doubles**. Lower rolls are always better when it comes to d100 results in **Pursuing *the* Dream**. However, **rolling a double** can unlock special bonuses or penalties, depending on the context.
+
+> **Please Note:** The referee has the final say on how doubles are used within the game. Doubles are a great way to encourage participation and get players excited about rolling dice and participating in the game. Doubles can make the game more intense, and they grab players’ collective attention. It is recommended that referees use doubles to engage and add tension in gameplay.
+
+The table below offers referees a guide to navigating dice rolls on a d100, along with those critical failures/successes known as doubles.
