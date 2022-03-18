@@ -65,3 +65,5 @@ Below players will find a table cataloging all possible dice roll combinations f
 > **Please Note:** The referee has the final say on how doubles are used within the game. Doubles are a great way to encourage participation and get players excited about rolling dice and participating in the game. Doubles can make the game more intense, and they grab players’ collective attention. It is recommended that referees use doubles to engage and add tension in gameplay.
 
 The table below offers referees a guide to navigating dice rolls on a d100, along with those critical failures/successes known as doubles.
+
+![d100 Results Table](% link /assets/img/d100 Results Table.png %)
