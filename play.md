@@ -66,4 +66,5 @@ Below players will find a table cataloging all possible dice roll combinations f
 
 The table below offers referees a guide to navigating dice rolls on a d100, along with those critical failures/successes known as doubles.
 
-![d100 Results Table](% link /assets/img/d100 Results Table.png %)
+![Deseret](/assets/img/d100 Results Table.png)
+
