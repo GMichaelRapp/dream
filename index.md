@@ -1,4 +1,4 @@
-|[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |[Free Radicals Game Studio](https://americanethos.xyz)|
+|[Table of Contents]({% link contents.md %})| [License]({% link cc4.md %}) |
 
 ## Pursuing *the* Dream
 **Pursuing *the* Dream** is a strategy roleplaying game about higher education and is set in the fictional state of Deseret. While the names of very *real* towns, cities, and villages, have been used, they have been used quite liberally, meaning they may not correspond to their real-world geographies, among other things. It is best to remember this is a game, and, as such, to avoid being overly technical with the geographies present on the game board. 
