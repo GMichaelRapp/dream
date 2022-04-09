@@ -68,3 +68,32 @@ The table below offers referees a guide to navigating dice rolls on a d100, alon
 
 ![Deseret](/assets/img/d100 Results Table.png)
 
+Let’s say players are asked to roll a d100. The referee stipulates the challenge in question requires a sixty-five (65) or lower in the d100. The player in question acknowledges this and then proceeds to roll an eighty-eight (88), which is two (2) levels above the target score. In this context, the referee decides to offer a penalty, saying the player in question managed to not only fail but also critically fail at the task or challenge in question by two (2) levels.
+
+Now, let’s say the player in question has been asked to roll a forty-five (45) or lower on a d100 to determine the success of a given task or challenge handed down by the referee. The player acknowledges this and then proceeds to roll an eleven (11). This, using the table above, is three (3) levels lower than what was needed, meaning serious bonuses are likely to result from this critical success.
+
+#### Exploring Success, Failure, & Victory Points
+**_Success_**, in **Pursuing *the* Dream**, is simple. It means one of three things have happened: The IHL in question has successfully used players’ problem-solving and critical thinking abilities to tackle a given challenge or task handed down by the referee. Or, the IHL in question has roleplayed out the situation and done so to the satisfaction (and possible amusement) of the referee. Or, the IHL has offered a chancy solution requiring dice to be rolled in front of the referee. The dice roll is successful, and, therefore, the IHL has succeeded.
+
+Succeeding means the IHL is awarded a given number of victory points. More victory points should be awarded based on the difficulty of the task at hand. Success also means there are positive (and impactful) consequences for the IHL in question.
+
+Those IHLs who rolled **00** on the d100, or a double that is lower than the target number, are given special bonuses (and possibly extra victory points), depending on the referee’s discretion.
+
+> **Success is always followed up with chaos.** The referee will need to roll **_up to_** three (3) six-sided dice to determine what sort of chaos is heading the IHL’s way. (More on this in below and under the [**04: Refereeing the Game**]({% link referee.md %}) chapter.)
+ 
+**_Failure_**, in **Pursuing *the* Dream** means an IHL has rolled **above** the target number calculated by the referee. As with success, failure has consequences. The referee, who determines what consequences are appropriate for the given failure, determines these. Chaos always follows failure, so be prepared.
+
+> **Also:** Those IHLs that roll a **99** have automatically failed at their given task. Chaos always follows failure. The referee will need to roll **_up to_** three (3) six-sided dice to determine what sort of chaos is heading the IHL’s way.      
+
+**_Victory points_** are the rewards IHLs seek to win the game. Victory points are awarded for successes. However, victory points can be used to purchase new college characteristics, resources, and/or newly rolled attribute stats, which makes succeeding at challenges and tasks and winning even easier.
+
+Victory points are a fungible asset that can be used to make gambles that may pay off in a big way for IHLs. For example, an IHL suffering from budget drain due to administrative bloat could use their victory points to change this characteristic for their IHL. This can be done during **Phase 02** of gameplay.
+
+Victory points can also be used to influence important dice rolls. The cost for manipulating dice rolls depends on the difficulty and the referee’s discretion.
+
+Victory points might be used to influence the completion of tasks or challenges handed down by the referee. These points can be used to ask for hints, guidance, and/or automatic success, depending on the number of points spent by a given IHL. Again, this can be done at the referee’s discretion.
+
+While victory points can be gained throughout gameplay, victory points can be lost due to failure, inaction, and discord. This is left up to the referee’s discretion.
+
+#### The Foundational Stats & Information for Each IHL  
+In the sections that follow, the referees (and those other players reviewing this manual) will be introduced to those foundational stats and information pertinent to getting at the essence of each institution of higher learning in Deseret. It is best to remember these stats and informational pieces offer ways in which players can tackle challenges, contextualize problems, and change the outcomes of (say) dice rolls. In the succeeding sections, players will come in contact with a lot of information. Read the following sections carefully. Remember that the information below is tackled in greater detail under [**04: Refereeing the Game**]({% link referee.md %}).
